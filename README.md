@@ -15,4 +15,8 @@ My name is Corrado
 ### I am curious to learn in the future
 
 - Back-end
-- 
+- Software  
+
+### Reach me on 
+
+[My LinkedIn page](https://www.linkedin.com/in/corrado-rofi-66b073128)
