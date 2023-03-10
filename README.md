@@ -11,7 +11,7 @@ My name is Corrado
 - HTML
 - CSS
 - Javascript
-- -Wordpress
+- Wordpress
 
 ### I am curious to learn in the future
 
