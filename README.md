@@ -4,9 +4,9 @@ My name is Corrado
 
 ### About me
 
-:desktop_computer: I am a student in front-end development on Noroff.
-:monocle_face: I'm making some websites and practicing with HTML, CSS, Javascript and Wordpress.
-:blue_book: Learning Adobe XD and reading books about Web Design
+- :desktop_computer: I am a student in front-end development on Noroff.
+- :monocle_face: I'm making some websites and practicing with HTML, CSS, Javascript and Wordpress.
+- :blue_book: Learning Adobe XD and reading books about Web Design
 
 ### I am Learning
 
